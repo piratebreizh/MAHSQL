@@ -11,3 +11,4 @@
 
     5- tapez exit ou quit pour quitte 
     6- creation de table dans le json pris en charge
+    7- try try try again
